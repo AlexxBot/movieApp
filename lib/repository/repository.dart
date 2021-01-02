@@ -5,7 +5,7 @@ import 'package:movie_app/model/person_response.dart';
 
 class MovieRepository{
 
-  final String apiKey = "";
+  final String apiKey = "886343837a6c0488a09aea2286096d2e";
   static String mainURL = "https://api.themoviedb.org/3";
   final Dio _dio = Dio(); // esto es envez del http lib
 
